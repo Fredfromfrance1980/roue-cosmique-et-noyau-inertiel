@@ -11,7 +11,8 @@ Il contient également sa version modifié : Section Spéciale - La roue cosmiqu
 ## 📘 DOI de la publication officielle
 
 🔗 Zenodo V.1 : [https://doi.org/10.5281/zenodo.15872567](https://doi.org/10.5281/zenodo.15872567)
-    Zenodo V.2 : (https://doi.org/10.5281/zenodo.16091244)
+
+🔗 Zenodo V.2 : https://doi.org/10.5281/zenodo.16091244
 ---
 
 ## 🧭 Description
